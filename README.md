@@ -1,3 +1,8 @@
+Project Overview
+
+Are LLM-based Chatbots Reliable and Safe Enough to Provide Free Data Science Tutoring for Marginalized Communities
+In collaboration with Jonathan Hodges, Edward Shin, and Neil Fong for Applied Machine Learning course (DATASCI W207). 
+
 Installation Instructions
 
 The first step is breaking up the textbook dataset into text chunks and storing as embeddings in the Pinecone vector database. This is what code/indexer.py takes care of. This will require the textbook dataset of 45 PDFs in the 'data' directory. This wasn't added to github due to large size. Open AI and Pinecone accounts and API Keys are required as well. These need to be set with the following environment variables.  <br>
