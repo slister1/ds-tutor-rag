@@ -1,0 +1,137 @@
+{"question_id":1,"text":"What is the Central Limit Theorem and why is it important? ","category":"generic"}
+{"question_id":2,"text":"What is sampling? How many sampling methods do you know?","category":"generic"}
+{"question_id":3,"text":"What is the difference between a type I vs type II error?","category":"generic"}
+{"question_id":4,"text":"What is linear regression? What do the terms p-value, coefficient, and r-squared value mean? What is the significance of each of these components?","category":"generic"}
+{"question_id":5,"text":"What are the assumptions required for linear regression?","category":"generic"}
+{"question_id":6,"text":"What is a statistical interaction?","category":"generic"}
+{"question_id":7,"text":"What is selection bias?","category":"generic"}
+{"question_id":8,"text":"What is an example of a data set with a non-Gaussian distribution?","category":"generic"}
+{"question_id":9,"text":"What is the Binomial Probability Formula?","category":"generic"}
+{"question_id":10,"text":"What is Data Science?","category":"generic"}
+{"question_id":11,"text":"What is bias-variance trade-off?","category":"generic"}
+{"question_id":12,"text":"What is a confusion matrix?","category":"generic"}
+{"question_id":13,"text":"What is the difference between long and wide format data?","category":"generic"}
+{"question_id":14,"text":"What is a Normal Distribution?","category":"generic"}
+{"question_id":15,"text":"What is correlation and covariance in statistics?","category":"generic"}
+{"question_id":16,"text":"What is the difference between Point Estimates and Confidence Interval?","category":"generic"}
+{"question_id":17,"text":"What is the goal of A\/B Testing?","category":"generic"}
+{"question_id":18,"text":"What is a p-value?","category":"generic"}
+{"question_id":19,"text":"In any 15-minute interval, there is a 20% probability that you will see at least one shooting star. What is the probability that you see at least one shooting star in the period of an hour?","category":"math"}
+{"question_id":20,"text":"How can you generate a random number between 1 - 7 with only a die?","category":"generic"}
+{"question_id":21,"text":"A certain couple tells you that they have two children, at least one of which is a girl. What is the probability that they have two girls?","category":"math"}
+{"question_id":22,"text":"A jar has 1000 coins, of which 999 are fair and 1 is double headed. Pick a coin at random, and toss it 10 times. Given that you see 10 heads, what is the probability that the next toss of that coin is also a head?","category":"math"}
+{"question_id":23,"text":"What do you understand by statistical power of sensitivity and how do you calculate it?","category":"generic"}
+{"question_id":24,"text":"What are the differences between over-fitting and under-fitting?","category":"knowledge"}
+{"question_id":25,"text":"How do you prevent Overfitting and Underfitting?","category":"knowledge"}
+{"question_id":26,"text":"What is regularisation? Why is it useful?","category":"knowledge"}
+{"question_id":27,"text":"What Is the Law of Large Numbers?","category":"generic"}
+{"question_id":28,"text":"What Are Confounding Variables?","category":"generic"}
+{"question_id":29,"text":"What Are the Types of Biases That Can Occur During Sampling?","category":"generic"}
+{"question_id":30,"text":"What is Survivorship Bias?","category":"generic"}
+{"question_id":31,"text":"What is selection bias?","category":"generic"}
+{"question_id":32,"text":"Explain how a ROC curve works","category":"generic"}
+{"question_id":33,"text":"What is TF\/IDF vectorization?","category":"generic"}
+{"question_id":34,"text":"Why we generally use Softmax non-linearity function as last operation in-network?","category":"knowledge"}
+{"question_id":35,"text":"Python or R - Which one would you prefer for text analytics?","category":"knowledge"}
+{"question_id":36,"text":"How does data cleaning play a vital role in Machine learning analysis?","category":"knowledge"}
+{"question_id":37,"text":"Differentiate between univariate, bivariate and multivariate analysis. ","category":"generic"}
+{"question_id":38,"text":"Explain Star Schema. ","category":"generic"}
+{"question_id":39,"text":"What is Cluster Sampling? ","category":"generic"}
+{"question_id":40,"text":"What is Systematic Sampling? ","category":"generic"}
+{"question_id":41,"text":"What are Eigenvectors and Eigenvalues? ","category":"generic"}
+{"question_id":42,"text":"Can you cite some examples where a false positive is more important than a false negative? ","category":"generic"}
+{"question_id":43,"text":"Can you cite some examples where a false negative is more important than a false positive? ","category":"generic"}
+{"question_id":44,"text":"Can you cite some examples where both false positive and false negatives are equally important? ","category":"generic"}
+{"question_id":45,"text":"Can you explain the difference between a Validation Set and a Test Set? ","category":"generic"}
+{"question_id":46,"text":"Explain cross-validation. ","category":"generic"}
+{"question_id":47,"text":"What is Machine Learning? ","category":"knowledge"}
+{"question_id":48,"text":"What is Supervised Learning? ","category":"knowledge"}
+{"question_id":49,"text":"What is Unsupervised learning? ","category":"knowledge"}
+{"question_id":50,"text":"What are the various classification algorithms? ","category":"knowledge"}
+{"question_id":51,"text":"What is \u2018Naive\u2019 in a Naive Bayes? ","category":"knowledge"}
+{"question_id":52,"text":"Explain SVM algorithm in detail. ","category":"knowledge"}
+{"question_id":53,"text":"What are the different kernels in SVM? ","category":"knowledge"}
+{"question_id":54,"text":"Explain Decision Tree algorithm in detail. ","category":"knowledge"}
+{"question_id":55,"text":"What are Entropy and Information gain in Decision tree algorithm? ","category":"knowledge"}
+{"question_id":56,"text":"What is pruning in Decision Tree? ","category":"knowledge"}
+{"question_id":57,"text":"What is logistic regression? State an example when you have used logistic regression recently. ","category":"knowledge"}
+{"question_id":58,"text":"What is Linear Regression? ","category":"knowledge"}
+{"question_id":59,"text":"What Are the Drawbacks of the Linear Model? ","category":"knowledge"}
+{"question_id":60,"text":"What is the difference between Regression and classification ML techniques? ","category":"knowledge"}
+{"question_id":61,"text":"What are Recommender Systems? ","category":"knowledge"}
+{"question_id":62,"text":"What is Collaborative filtering? ","category":"knowledge"}
+{"question_id":63,"text":"How can outlier values be treated? ","category":"knowledge"}
+{"question_id":64,"text":"What are the various steps involved in an analytics project? ","category":"knowledge"}
+{"question_id":65,"text":"During analysis, how do you treat missing values? ","category":"knowledge"}
+{"question_id":66,"text":"How will you define the number of clusters in a clustering algorithm? ","category":"knowledge"}
+{"question_id":67,"text":"What is Ensemble Learning? ","category":"knowledge"}
+{"question_id":68,"text":"Describe in brief any type of Ensemble Learning? ","category":"knowledge"}
+{"question_id":69,"text":"What is a Random Forest? How does it work? ","category":"knowledge"}
+{"question_id":70,"text":"How Do You Work Towards a Random Forest? ","category":"knowledge"}
+{"question_id":71,"text":"What cross-validation technique would you use on a time series data set? ","category":"knowledge"}
+{"question_id":72,"text":"What is a Box-Cox Transformation? ","category":"knowledge"}
+{"question_id":73,"text":"How Regularly Must an Algorithm be Updated? ","category":"knowledge"}
+{"question_id":74,"text":"If you are having 4GB RAM in your machine and you want to train your model on 10GB data set. How would you go about solving this problem? ","category":"knowledge"}
+{"question_id":75,"text":"What is Deep Learning? ","category":"knowledge"}
+{"question_id":76,"text":"What is the difference between machine learning and deep learning? ","category":"knowledge"}
+{"question_id":77,"text":"What is the reason for the popularity of Deep Learning in recent times? ","category":"knowledge"}
+{"question_id":78,"text":"What is reinforcement learning? ","category":"knowledge"}
+{"question_id":79,"text":"What are Artificial Neural Networks? ","category":"knowledge"}
+{"question_id":80,"text":"Describe the structure of Artificial Neural Networks","category":"knowledge"}
+{"question_id":81,"text":"How Are Weights Initialized in a Network? ","category":"knowledge"}
+{"question_id":82,"text":"What Is the Cost Function? ","category":"knowledge"}
+{"question_id":83,"text":"What Are Hyperparameters? ","category":"knowledge"}
+{"question_id":84,"text":"What Will Happen If the Learning Rate Is Set inaccurately (Too Low or Too High)? ","category":"knowledge"}
+{"question_id":85,"text":"What Is the Difference Between Epoch, Batch, and Iteration in Deep Learning? ","category":"knowledge"}
+{"question_id":86,"text":"What Are the Different Layers on CNN? ","category":"knowledge"}
+{"question_id":87,"text":"What Is Pooling in a CNN, and How Does It Work? ","category":"knowledge"}
+{"question_id":88,"text":"What are Recurrent Neural Networks(RNNs)? ","category":"knowledge"}
+{"question_id":89,"text":"How Does an LSTM Network Work? ","category":"knowledge"}
+{"question_id":90,"text":"What Is a Multi-layer Perceptron(MLP)? ","category":"knowledge"}
+{"question_id":91,"text":"Explain Gradient Descent. ","category":"knowledge"}
+{"question_id":92,"text":"What are exploding gradients?","category":"knowledge"}
+{"question_id":93,"text":"What are vanishing gradients? ","category":"knowledge"}
+{"question_id":94,"text":"What is Back Propagation and Explain how it works. ","category":"knowledge"}
+{"question_id":95,"text":"What are the variants of Back Propagation? ","category":"knowledge"}
+{"question_id":96,"text":"What are the different Deep Learning Frameworks? ","category":"knowledge"}
+{"question_id":97,"text":"What is the role of the Activation Function? ","category":"knowledge"}
+{"question_id":98,"text":"Name a few Machine Learning libraries used for various purposes. ","category":"knowledge"}
+{"question_id":99,"text":"What is an Auto-Encoder? ","category":"knowledge"}
+{"question_id":100,"text":"What is a Boltzmann Machine? ","category":"knowledge"}
+{"question_id":101,"text":"What Is Dropout and Batch Normalization? ","category":"knowledge"}
+{"question_id":102,"text":"What Is the Difference Between Batch Gradient Descent and Stochastic Gradient Descent? ","category":"knowledge"}
+{"question_id":103,"text":"Why Is Tensorflow the Preferred Library in Deep Learning?","category":"knowledge"}
+{"question_id":104,"text":"What Do You Mean by Tensor in Tensorflow? ","category":"knowledge"}
+{"question_id":105,"text":"What is the Computational Graph? ","category":"knowledge"}
+{"question_id":106,"text":"What are the differences between supervised and unsupervised learning? ","category":"knowledge"}
+{"question_id":107,"text":"How is logistic regression done? ","category":"knowledge"}
+{"question_id":108,"text":"Explain the steps in making a decision tree. ","category":"knowledge"}
+{"question_id":109,"text":"How do you build a random forest model? ","category":"knowledge"}
+{"question_id":110,"text":"How can you avoid the overfitting your model? ","category":"knowledge"}
+{"question_id":111,"text":"Differentiate between univariate, bivariate, and multivariate analysis. ","category":"knowledge"}
+{"question_id":112,"text":"What are the feature selection methods used to select the right variables? ","category":"knowledge"}
+{"question_id":113,"text":"In your choice of language, write a program that prints the numbers ranging from one to 50. ","category":"coding"}
+{"question_id":114,"text":"You are given a data set consisting of variables with more than 30 percent missing values. How will you deal with them? ","category":"knowledge"}
+{"question_id":115,"text":"What are dimensionality reduction and its benefits? ","category":"knowledge"}
+{"question_id":116,"text":"How should you maintain a deployed model? ","category":"knowledge"}
+{"question_id":117,"text":"What are recommender systems? ","category":"knowledge"}
+{"question_id":118,"text":"How can outlier values be treated? ","category":"knowledge"}
+{"question_id":119,"text":"How can a time-series data be declared as stationery? ","category":"knowledge"}
+{"question_id":120,"text":"How can you calculate accuracy using a confusion matrix? ","category":"knowledge"}
+{"question_id":121,"text":"Write the equations for the precision and recall rate.","category":"knowledge"}
+{"question_id":122,"text":"'People who bought this also bought\u2026' recommendations seen on Amazon are a result of which algorithm? ","category":"knowledge"}
+{"question_id":123,"text":"You are given a dataset on cancer detection. You have built a classification model and achieved an accuracy of 96 percent. Why shouldn't you be happy with your model performance? What can you do about it? ","category":"knowledge"}
+{"question_id":124,"text":"Which machine learning algorithm can be used for inputting missing values of both categorical and continuous variables? ","category":"knowledge"}
+{"question_id":125,"text":"We want to predict the probability of death from heart disease based on three risk factors: age, gender, and blood cholesterol level. What is the most appropriate algorithm for this case? ","category":"knowledge"}
+{"question_id":126,"text":"After studying the behavior of a population, you have identified four specific individual types that are valuable to your study. You would like to find all users who are most similar to each individual type. Which algorithm is most appropriate for this study? ","category":"knowledge"}
+{"question_id":127,"text":"Your organization has a website where visitors randomly receive one of two coupons. It is also possible that visitors to the website will not receive a coupon. You have been asked to determine if offering a coupon to website visitors has any impact on their purchase decisions. Which analysis method should you use? ","category":"knowledge"}
+{"question_id":128,"text":"What are the feature vectors? ","category":"knowledge"}
+{"question_id":129,"text":"What is root cause analysis? ","category":"knowledge"}
+{"question_id":130,"text":"What are recommender systems? ","category":"knowledge"}
+{"question_id":131,"text":"What is collaborative filtering? ","category":"knowledge"}
+{"question_id":132,"text":"Do gradient descent methods always converge to similar points? ","category":"knowledge"}
+{"question_id":133,"text":"What are the drawbacks of the linear model? ","category":"knowledge"}
+{"question_id":134,"text":"How regularly must an algorithm be updated? ","category":"knowledge"}
+{"question_id":135,"text":"What are eigenvalues and eigenvectors? ","category":"knowledge"}
+{"question_id":136,"text":"Why is resampling done? ","category":"knowledge"}
+{"question_id":137,"text":"What are the important skills to have in Python with regard to data analysis? ","category":"knowledge"}
